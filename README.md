@@ -51,8 +51,8 @@ python3 --version
 
 **1. Clone repositori ini**
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/DREAM-TEAM-2026/DATA-SCIENTIST.git
+cd DATA-SCIENTIST
 ```
 
 **2. Buat virtual environment**
