@@ -24,15 +24,15 @@ Proyek ini terdiri dari dua komponen utama:
 DATA-SCIENTIST/
 │
 ├── dashboard/
-│   ├── dashboard.py                      # Entry point aplikasi Streamlit
-│   └── resep_bersih_clustered_new.csv    # ⚠️ Masuk Ke .gitignore
+│   ├── dashboard.py                      
+│   └── resep_bersih_clustered_new.csv    
 │
-├── data/                                 # Dataset mentah ⚠️ masuk Ke .gitignore
+├── data/                                 
 │
-├── ProjekCapstone.ipynb                  # Notebook utama: EDA & analisis
-├── requirements.txt                      # Daftar library yang dibutuhkan
-├── .gitignore                            # Konfigurasi file yang tidak di-push
-└── README.md                             # Dokumentasi proyek ini
+├── ProjekCapstone.ipynb                  
+├── requirements.txt                      
+├── .gitignore                           
+└── README.md                             
 ```
 
 ---
@@ -51,8 +51,8 @@ python3 --version
 
 **1. Clone repositori ini**
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/DREAM-TEAM-2026/DATA-SCIENTIST.git
+cd DATA-SCIENTIST
 ```
 
 **2. Buat virtual environment**
