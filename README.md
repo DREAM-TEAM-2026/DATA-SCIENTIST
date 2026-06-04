@@ -14,7 +14,7 @@ Proyek ini terdiri dari dua komponen utama:
 ## 📸 Demo Aplikasi Dashboard
 
 **Kunjungin Url Berikut**
-
+https://smartgroceryplanner.streamlit.app/
 
 ---
 
